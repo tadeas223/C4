@@ -1,0 +1,16 @@
+sources += files(
+  'unit.c',
+  'addr_of.c',
+  'param.c',
+  'deref.c',
+  'dtype.c',
+  'declare.c',
+  'assign.c',
+  'expr.c',
+  'struct.c',
+  'statement.c',
+  'number.c',
+  'variable.c',
+  'return.c',
+  'fn.c',
+)

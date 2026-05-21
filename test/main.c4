@@ -1,0 +1,5 @@
+import "./math.c4"
+
+pub fn main() {
+    sum(1, 2);
+}
